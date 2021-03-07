@@ -10,10 +10,11 @@ function About() {
               legends like Elton John, as well as hometown heroes like Vin Dombroski of Platinum artist Sponge. I am a licensed Real Estate professional here in Michigan with Johnstone and Johnstone, 
               and have expertise in several areas around the state. How can I help you today?
             </p>
-             <p className="text-center">Click the links below to check out some of my work.</p>
-                <div className="row">
-                  <a href="https://github.com/jsmithonline82" target="_blank" rel="noreferrer" className="col btn btn-dark btn-lg active align-self-center m-2">SEE MY WORK ON GITHUB</a>
-                  <a href="/portfolio" className="col btn btn-dark btn-lg active align-self-center m-2">SEE SOME FEATURED PROJECTS</a>
+            
+             <p className="text-center">Click the links below to check out some of my work.</p> 
+             <div className="row justify-content-center">
+                  <a href="https://github.com/jsmithonline82" target="_blank" rel="noreferrer" className="col btn btn-dark btn-lg active float-left m-2">SEE MY WORK ON GITHUB</a>
+                  <a href="/portfolio" className="col float-right btn btn-dark btn-lg active m-2">SEE SOME FEATURED PROJECTS</a>
                 </div>
              
         </div>
