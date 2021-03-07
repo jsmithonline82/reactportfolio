@@ -8,7 +8,7 @@ bootsrap, jquery, html, css used
 
 [Deployment Link](https://jsmithonline82.github.io/02-Portfolio/)
 
-![img of index](https://jsmithonline82.github.io/02-Portfolio/assets/Index.png)
+![img of index](https://jsmithonline82.github.io/02-Portfolio/assets/screenshot.png)
 
 --------------------------------
 
